@@ -1,0 +1,1 @@
+This files hash is meant to test hash based AV

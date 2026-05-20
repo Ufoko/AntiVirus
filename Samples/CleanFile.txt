@@ -1,0 +1,1 @@
+This files hash should be clean and not alert the AV
