@@ -6,7 +6,7 @@ BUF_SIZE = 65536  # 64 KiB chunks - optimal for most filesystems
 
 def compute_hashes(file_path: str | Path) -> Tuple[str, str]:
     """
-    Compute MD5 and SHA-256 hashes of a file efficiently.
+    Compute MD5 and SHA-256 hashes of a file.
 
     Returns:
         (md5_hex, sha256_hex) tuple
